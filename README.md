@@ -1,3 +1,21 @@
+# BIOMD0000000254: Bier2000_GlycolyticOscillation
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000254.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000254.git@20140916`
+
+
+# Model Notes
 
 
 This a model from the article:  
@@ -20,4 +38,5 @@ that, in essence, the common acetaldehyde concentration can be modeled as a
 small perturbation on the "pacemaker" whose effect on the period of the
 oscillations of cells in the same suspension is indeed such that a
 synchronization develops.
+
 
